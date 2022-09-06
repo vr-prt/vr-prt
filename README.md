@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Passionate Full-Stack Developer from France based in Canada.</h3>
+<h3 align="center">Passionate Full-Stack Developer from France based in Montréal, Quebec.</h3>
 
 - 🔭 I’m currently working on [Meet-Ball](https://www.meet-ball.me/)
 
