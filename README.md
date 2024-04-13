@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Passionate Backend Developer from France based in Montréal, Quebec.</h3>
+<h3 align="center">Passionate Backend Developer from France based in Montréal, Québec.</h3>
 
 - 📫 How to reach me **vprete@tuta.io**
 
